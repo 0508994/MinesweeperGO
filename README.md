@@ -1,6 +1,6 @@
 # MinesweeperGO
 University Android project. Mobile crowd-sensing implementation of popular PC game Minesweeper.
-- Some screenshots from the game available below.
+- Some screenshots from the game are available below.
 
 ![alt text](https://i.imgur.com/5Xmv5YJ.png)
 
